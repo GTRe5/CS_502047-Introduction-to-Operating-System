@@ -1,1 +1,1 @@
-# CS_502047-Introduction-To-Operating-System
+# CS_502047-Introduction-to-Operating-System
